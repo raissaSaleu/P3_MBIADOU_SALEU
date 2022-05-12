@@ -32,5 +32,5 @@ Source des données : https://world.openfoodfacts.org/data
 
 ## Livrables
 
-* Un [notebook du nettoyage des données]()
-* Un [notebook d’exploration]() comportant une analyse univariée, multivariée, une réduction dimensionnelle, ainsi que les différentes questions de recherches associées
+* Un [notebook du nettoyage des données](https://github.com/raissaSaleu/P3_MBIADOU_SALEU/blob/main/PSant%C3%A9_01_notebooknettoyage.ipynb)
+* Un [notebook d’exploration](https://github.com/raissaSaleu/P3_MBIADOU_SALEU/blob/main/PSant%C3%A9_02_notebookexploration.ipynb) comportant une analyse univariée, multivariée, une réduction dimensionnelle, ainsi que les différentes questions de recherches associées
