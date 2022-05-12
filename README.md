@@ -1,4 +1,4 @@
-# Projet3-Openclassrooms
+# Projet3-(Openclassrooms/CentraleSupelec)
 Parcours Data Science
 
 Projet n°3 : "Concevez une application au service de la santé publique"
