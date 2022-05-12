@@ -29,3 +29,8 @@ Source des données : https://world.openfoodfacts.org/data
 * Communiquer ses résultats à l’aide de représentations graphiques lisibles et pertinentes
 * Effectuer une analyse statistique univariée
 * Effectuer des opérations de nettoyage sur des données structurées
+
+## Livrables
+
+* [notebook du nettoyage des données]()
+* [notebook d’exploration]() comportant une analyse univariée, multivariée, une réduction dimensionnelle, ainsi que les différentes questions de recherches associées
